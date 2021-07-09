@@ -1,0 +1,16 @@
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\obj\Debug\net5.0\Codigo del ejercicio de concurso.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\obj\Debug\net5.0\Codigo del ejercicio de concurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\obj\Debug\net5.0\Codigo del ejercicio de concurso.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\obj\Debug\net5.0\Codigo del ejercicio de concurso.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\obj\Debug\net5.0\Codigo del ejercicio de concurso.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\bin\Debug\net5.0\Codigo del ejercicio de concurso.exe
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\bin\Debug\net5.0\Codigo del ejercicio de concurso.deps.json
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\bin\Debug\net5.0\Codigo del ejercicio de concurso.runtimeconfig.json
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\bin\Debug\net5.0\Codigo del ejercicio de concurso.runtimeconfig.dev.json
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\bin\Debug\net5.0\Codigo del ejercicio de concurso.dll
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\bin\Debug\net5.0\ref\Codigo del ejercicio de concurso.dll
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\bin\Debug\net5.0\Codigo del ejercicio de concurso.pdb
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\obj\Debug\net5.0\Codigo del ejercicio de concurso.dll
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\obj\Debug\net5.0\ref\Codigo del ejercicio de concurso.dll
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\obj\Debug\net5.0\Codigo del ejercicio de concurso.pdb
+C:\Users\CompuStore\source\repos\Codigo del ejercicio de concurso\obj\Debug\net5.0\Codigo del ejercicio de concurso.genruntimeconfig.cache
